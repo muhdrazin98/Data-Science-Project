@@ -6,6 +6,6 @@ My task is to develop a machine learning model for predicting employee attrition
 4. Hypothesis Testing
 5. Feature Selection
 6. Logistic Regression Model
-7. Naive Bayes Model
+
 
 The goal is to enhance the accuracy and effectiveness of the predictive models through thorough analysis and application of appropriate statistical methods. By systematically addressing each step, we aim to create a robust model that can provide valuable insights into employee attrition factors and contribute to informed decision-making.
